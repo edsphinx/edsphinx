@@ -1,4 +1,7 @@
-### Hi there 👋
+## Stats
+
+<!-- github stats -->
+![edsphinx github stats](https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true)
 
 <!--
 **edsphinx/edsphinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
