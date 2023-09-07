@@ -1,7 +1,7 @@
 ## Stats
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/oFonCK?label=Follow)](https://twitter.com/intent/follow?screen_name=oFonCK)
-[![Linkedin: ofonck](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofonck/)](https://www.linkedin.com/in/ofonck/)
+[![Linkedin: ofonck](https://img.shields.io/badge/-ofonck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofonck/)](https://www.linkedin.com/in/ofonck/)
 ![GitHub followers](https://img.shields.io/github/followers/edsphinx?label=Follow&style=social)
 
 <!-- github stats -->
@@ -15,27 +15,34 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://calendly.com/fonckdev/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ```javascript
-const thai = {
-	pronouns: 'he' | 'him',
-	code: [Javascript, Typescript, HTML, CSS, Java, Solidity, Go],
-	tools: [
-		React,
-		Redux,
-		Zustand,
-		Node,
-		NextJS,
-		Styled - Components,
-		Jest,
-		Docker,
-		Kubernetes,
-	],
-	architecture: ['microservices', 'event-driven', 'design system pattern'],
-	techCommunities: {
-		coorganizer: 'Ethereum Honduras, Ethereum San Pedro Sula',
-		speaker: 'Ethereum San Pedro Sula',
-		mentor: 'Ethereum Honduras, ETH KIPU',
-	},
+const edsphinx = {
+  pronouns: 'he' | 'him',
+  code: [Javascript, Typescript, Java, Solidity, Go],
+  askMeAbout: ["web dev", "tech", "blockchain dev", "photography"],
+  technologies: {
+        backEnd: {
+            js,ts: ["Node", "Express"],
+            solidity: ["Truffle", "Hardhat", "Foundry", "OpenZeppelin"],
+            go: ["Gin", "FastHTTP"],
+            java: ["Spring", "Struts"],
+        },
+        frontEnd: {
+          "React", "Redux", "Zustand", "NextJS", "Tailwind",
+        }
+        mobileApp: {
+            native: ["Android Development"],
+        },
+        architecture: ['microservices', 'event-driven', 'design system pattern'],
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Kubernetes"],
+        databases: ["Postgres", "MySQL", "Oracle", "Mongo", "Redis", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "Jest"],
+        techCommunities: {
+          coorganizer: 'Ethereum Honduras, Ethereum San Pedro Sula',
+          speaker: 'Ethereum San Pedro Sula',
+          mentor: 'Ethereum Honduras, ETH KIPU',
+        },
+  }
 };
 ```
 
-resume: [![edsphinx: resume](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)]
+resume: [![https://img.shields.io/badge/edsphinx-resume](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)]
