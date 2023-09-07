@@ -37,3 +37,5 @@ const thai = {
 	},
 };
 ```
+
+resume: [![edsphinx: resume](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)]
