@@ -41,8 +41,7 @@ const edsphinx = {
 
 ## Resume
 
-![resume](https://img.shields.io/badge/edsphinx-resume-blue)
-![edsphinx-resume](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)
+<a target="_blank" href="https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf">![resume](https://img.shields.io/badge/edsphinx-resume-blue)</a>
 
 ## Stats
 
