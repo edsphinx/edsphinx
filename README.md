@@ -53,12 +53,16 @@ const edsphinx = {
 
 ### CoderWeb
 
+```text
 #### NPM Package: https://www.npmjs.com/package/codewrite
 
 #### CoderWeb Code: https://github.com/edsphinx/CoderWeb
+```
 
 ### NextJs Project
 
+```text
 #### Live Site: https://rent-property-edsphinx.vercel.app/
 
 #### Property Rent Code: https://github.com/edsphinx/PropertyRent
+```
