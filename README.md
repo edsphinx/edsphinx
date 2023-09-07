@@ -10,7 +10,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```javascript
 const edsphinx = {
-  pronouns: 'he' | 'him',
+  pronouns: 'He' | 'Him',
   code: ["Javascript", "Typescript", "Java", "Solidity", "Go"],
   askMeAbout: ["web dev", "tech", "blockchain dev", "photography"],
   technologies: {
@@ -41,7 +41,7 @@ const edsphinx = {
 
 ## Resume
 
-<a target="_blank" href="https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf">![resume](https://img.shields.io/badge/edsphinx-resume-blue)</a>
+<a href="https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf" target="_blank">![resume](https://img.shields.io/badge/edsphinx-resume-blue)</a>
 
 ## Stats
 
@@ -49,4 +49,11 @@ const edsphinx = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true&theme=dark&hide=stars,issues" alt="edsphinx" /></p>
 
-<!-- <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p> -->
+## Portfolio
+
+NPM Package: https://www.npmjs.com/package/codewrite
+![NPM CoderWeb](https://github.com/edsphinx/CoderWeb)
+
+NextJs Project
+Live Site: https://rent-property-edsphinx.vercel.app/
+![TS Project](https://github.com/edsphinx/PropertyRent)
