@@ -1,12 +1,6 @@
-## Stats
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/oFonCK?label=Follow)](https://twitter.com/intent/follow?screen_name=oFonCK)
 [![Linkedin: ofonck](https://img.shields.io/badge/-ofonck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofonck/)](https://www.linkedin.com/in/ofonck/)
 ![GitHub followers](https://img.shields.io/github/followers/edsphinx?label=Follow&style=social)
-
-<!-- github stats -->
-
-![edsphinx github stats](https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true)
 
 ### 📫 Like to meet me?
 
@@ -21,21 +15,21 @@ const edsphinx = {
   askMeAbout: ["web dev", "tech", "blockchain dev", "photography"],
   technologies: {
         backEnd: {
-            js,ts: ["Node", "Express"],
+            js,ts: ["Node", "Express", "NestJs"],
             solidity: ["Truffle", "Hardhat", "Foundry", "OpenZeppelin"],
             go: ["Gin", "FastHTTP"],
             java: ["Spring", "Struts"],
         },
         frontEnd: {
-          "React", "Redux", "Zustand", "NextJS", "Tailwind",
+          "React", "Redux", "Zustand", "NextJs", "Tailwind", "SASS"
         }
         mobileApp: {
             native: ["Android Development"],
         },
         architecture: ['microservices', 'event-driven', 'design system pattern'],
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Kubernetes"],
+        devOps: ["AWS", "GCP", "Docker🐳", "Route53", "Nginx", "Kubernetes"],
         databases: ["Postgres", "MySQL", "Oracle", "Mongo", "Redis", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Jest"],
+        misc: ["Firebase", "GraphQL", "Socket.IO", "Jest", "Git", "NPM", "PNPM", "YARN", "Github Actions"],
         techCommunities: {
           coorganizer: 'Ethereum Honduras, Ethereum San Pedro Sula',
           speaker: 'Ethereum San Pedro Sula',
@@ -45,4 +39,14 @@ const edsphinx = {
 };
 ```
 
-resume: [![https://img.shields.io/badge/edsphinx-resume](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)]
+## Resume
+
+[https://img.shields.io/badge/edsphinx-resume](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)
+
+## Stats
+
+📈 my github stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true&theme=dark&hide=stars,issues" alt="edsphinx" /></p>
+
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
