@@ -51,18 +51,24 @@ const edsphinx = {
 
 ## Portfolio
 
-### CoderWeb
-
-```text
-NPM Package: (https://www.npmjs.com/package/codewrite)
-
-#### CoderWeb Code: https://github.com/edsphinx/CoderWeb
-```
-
-### NextJs Project
-
-```text
-#### Live Site: https://rent-property-edsphinx.vercel.app/
-
-#### Property Rent Code: https://github.com/edsphinx/PropertyRent
-```
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Project</b></td>
+      <td><b>📚 Live</b></td>
+      <td><b>⭐ Code</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>###CoderWeb</td>
+      <td>NPM Package: https://www.npmjs.com/package/codewrite</td>
+      <td>Source Code: https://github.com/edsphinx/CoderWeb</td>
+    </tr>
+    <tr>
+      <td>###NextJs Project</td>
+      <td>Live Site: https://rent-property-edsphinx.vercel.app/</td>
+      <td>Source Code: https://github.com/edsphinx/PropertyRent</td>
+    </tr>
+  </tbody>
+</table>
