@@ -11,7 +11,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const edsphinx = {
   pronouns: 'he' | 'him',
-  code: [Javascript, Typescript, Java, Solidity, Go],
+  code: ["Javascript", "Typescript", "Java", "Solidity", "Go"],
   askMeAbout: ["web dev", "tech", "blockchain dev", "photography"],
   technologies: {
         backEnd: {
@@ -31,9 +31,9 @@ const edsphinx = {
         databases: ["Postgres", "MySQL", "Oracle", "Mongo", "Redis", "sqlite"],
         misc: ["Firebase", "GraphQL", "Socket.IO", "Jest", "Git", "NPM", "PNPM", "YARN", "Github Actions"],
         techCommunities: {
-          coorganizer: 'Ethereum Honduras, Ethereum San Pedro Sula',
-          speaker: 'Ethereum San Pedro Sula',
-          mentor: 'Ethereum Honduras, ETH KIPU',
+          coorganizer: "Ethereum Honduras", "Ethereum San Pedro Sula",
+          speaker: "Ethereum San Pedro Sula",
+          mentor: "Ethereum Honduras", "ETH KIPU",
         },
   }
 };
@@ -41,7 +41,7 @@ const edsphinx = {
 
 ## Resume
 
-[https://img.shields.io/badge/edsphinx-resume](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)
+[(https://img.shields.io/badge/edsphinx-resume)](https://github.com/edsphinx/resume/blob/main/Oscar%20Fonseca%20-%20Resume.pdf)
 
 ## Stats
 
@@ -49,4 +49,4 @@ const edsphinx = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true&theme=dark&hide=stars,issues" alt="edsphinx" /></p>
 
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
+<!-- <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p> -->
