@@ -51,9 +51,14 @@ const edsphinx = {
 
 ## Portfolio
 
-NPM Package: https://www.npmjs.com/package/codewrite
-![NPM CoderWeb](https://github.com/edsphinx/CoderWeb)
+### CoderWeb
 
-NextJs Project
-Live Site: https://rent-property-edsphinx.vercel.app/
-![TS Project](https://github.com/edsphinx/PropertyRent)
+#### NPM Package: https://www.npmjs.com/package/codewrite
+
+#### CoderWeb Code: https://github.com/edsphinx/CoderWeb
+
+### NextJs Project
+
+#### Live Site: https://rent-property-edsphinx.vercel.app/
+
+#### Property Rent Code: https://github.com/edsphinx/PropertyRent
