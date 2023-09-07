@@ -1,19 +1,39 @@
 ## Stats
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/oFonCK?label=Follow)](https://twitter.com/intent/follow?screen_name=oFonCK)
+[![Linkedin: ofonck](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofonck/)](https://www.linkedin.com/in/ofonck/)
+![GitHub followers](https://img.shields.io/github/followers/edsphinx?label=Follow&style=social)
+
 <!-- github stats -->
+
 ![edsphinx github stats](https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true)
 
-<!--
-**edsphinx/edsphinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Like to meet me?
 
-Here are some ideas to get you started:
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://calendly.com/fonckdev/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+```javascript
+const thai = {
+	pronouns: 'he' | 'him',
+	code: [Javascript, Typescript, HTML, CSS, Java, Solidity, Go],
+	tools: [
+		React,
+		Redux,
+		Zustand,
+		Node,
+		NextJS,
+		Styled - Components,
+		Jest,
+		Docker,
+		Kubernetes,
+	],
+	architecture: ['microservices', 'event-driven', 'design system pattern'],
+	techCommunities: {
+		coorganizer: 'Ethereum Honduras, Ethereum San Pedro Sula',
+		speaker: 'Ethereum San Pedro Sula',
+		mentor: 'Ethereum Honduras, ETH KIPU',
+	},
+};
+```
