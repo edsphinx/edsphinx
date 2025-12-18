@@ -1,90 +1,123 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi there, I'm Oscar Fonseca 👋</h1>
-  <h3>Full-Stack Developer building scalable & capital-efficient solutions on the blockchain.</h3>
-  
+<div align="center">
+  <h1>Oscar Fonseca</h1>
+  <h3>Senior Full-Stack & Web3 Engineer</h3>
+  <p>
+    <b>Account Abstraction (ERC-4337)</b> | <b>DeFi Financial Engineering</b> | <b>Protocol Design</b>
+  </p>
+
   <a href="https://www.linkedin.com/in/ofonck/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/oFonCK" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <br />
+  <br />
 </div>
 
----
-
-### 👨‍💻 About Me
-
-I'm a seasoned developer who has transitioned from traditional software engineering to building the future of the decentralized web. My passion lies in creating robust, scalable solutions that solve real-world problems. I thrive in high-pressure environments like hackathons, which have accelerated my learning from **Solidity** to the **Move** language.
-
-My current focus is on **Financial Engineering** in DeFi—exploring how to create complex, innovative financial products on-chain by leveraging proven financial technology principles. I'm not just a developer; I'm a builder focused on shipping products that have a meaningful impact.
+> **Current Focus:** Building [GasX](https://github.com/edsphinx/builder-hub) — A no-code gas sponsorship platform on ERC-4337.  
+> Designing systems with adoption, cost, and ops in mind.
 
 ---
 
-### 🏆 Hackathon Victories & Recent Projects
+## Overview
 
-I believe in learning by building, and I'm proud of the solutions I've architected under pressure.
+I design and ship **end-to-end blockchain products** with a strong focus on:
+* **User Adoption:** Reducing friction in onboarding flows.
+* **Cost Optimization:** Managing gas and infrastructure overhead.
+* **Operational Simplicity:** Building systems that are viable to operate in production.
 
-* 🚀 **Aptos Ctrl+Move Hackathon 2025 (Submission)**
-    * **Project:** *Verifi Protocol* - An on-chain prediction market with its own oracles and composing AMM with Tapp Exchange and using Nodit services for live data.
-    * **Tech Stack:** `Move`, `Aptos SDK`, `TypeScript`, `Next.js`, `Tailwind`, `Shadcn`, `Zustand`, `Biome`, `Go`, `Prisma`, `Supabase`, `PostgreSQL`, `ChatGPT API`, `Nodit API`
-    * **Achievement:** Built a full-featured dApp and learned a new smart contract language in a short timeframe.
-    * [<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/edsphinx/verifi-protocol)
+My work spans **smart contracts, backend infrastructure, and frontend delivery**. I bridge the gap between product requirements and technical execution, taking products from idea → prototype → production under real constraints.
 
-* 🥇 **Infinita DeSci Web3 Hackathon (Winner)**
-    * **Project:** *Veritas Protocol* - An On-Chain Protocol for Verifiable Clinical Audit Trails.
-    * **Tech Stack:** `Solidity`, `Next.js`, `typescript`, `hardhat`, `Prisma`, `Supabase`, `PostgreSQL`, 
-    * **Achievement:** First place winner, recognized for innovation in the Decentralized Science space.
-    * [<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/edsphinx/veritas-protocol)
+### Core Focus Areas
+* Financial Engineering in DeFi (markets, incentives, on-chain primitives)
+* Account Abstraction (ERC-4337) & Gas Sponsorship
+* Designing protocols with real operational constraints
+* **Shipping fast under pressure** (hackathons, short timelines, limited resources)
 
-* 🥇 **Base miniApps Hackathon by Campus On Chain & a0x (Winner)**
-    * **Project:** *SocialDrop* - The Airdrop Platform that Creates Communities, not Mercenaries.
-    * **Tech Stack:** `Solidity`, `Base`, `Base Onchain Kit`, `Base Account`, `Farcaster API`, `Neynar`, `AWS`, `a0x JesseBot`
-    * **Achievement:** First place winner, creating a practical mini-app on the Base L2 network.
-    * [<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/edsphinx/socialdrop)
+I consistently validate ideas through hands-on building, often learning new stacks or languages on the fly when the problem demands it.
 
 ---
 
-### 🛠️ My Tech Stack
+## Flagship Project
 
-This is a snapshot of the tools and technologies I use. I'm always learning and adapting.
+### [GasX Protocol](https://github.com/edsphinx/builder-hub)
+**Role:** Lead Architect & Developer
+
+A no-code gas sponsorship platform built on Account Abstraction (ERC-4337), designed to reduce user friction and operational complexity for Web3 products.
+
+GasX allows product, growth, and DAO teams to:
+* Launch gasless user onboarding campaigns.
+* Manage sponsorship budgets and white-label experiences.
+* Avoid complex SDK-level integrations.
+* Ship faster with lower infrastructure overhead.
+
+**Tech Stack:** Solidity, Foundry, Next.js, TypeScript, AWS, PostgreSQL.
+
+---
+
+## Execution & Hackathons
+
+I believe the fastest way to learn and validate ideas is by building real systems under pressure.
+
+### [VeriFi Protocol](https://github.com/edsphinx/verifi-protocol) (Aptos Ctrl+Move Hackathon 2025)
+An on-chain prediction market with custom oracles and a composable AMM, integrated with Tapp Exchange and Nodit for live data.
+* **Highlight:** Designed and shipped a full dApp while ramping up on the Move language in a short timeframe.
+* **Stack:** `Move`, `Aptos SDK`, `TypeScript`, `Next.js`, `Tailwind`, `Zustand`, `Go`, `Prisma`, `Supabase`.
+
+### [Veritas Protocol](https://github.com/edsphinx/veritas-protocol) (Infinita DeSci Web3 Hackathon — Winner)
+An on-chain protocol for verifiable clinical audit trails in the Decentralized Science (DeSci) space.
+* **Highlight:** First place winner, recognized for real-world applicability and protocol design.
+* **Stack:** `Solidity`, `Next.js`, `TypeScript`, `Hardhat`, `Prisma`, `Supabase`, `PostgreSQL`.
+
+### [SocialDrop](https://github.com/edsphinx/socialdrop) (Base miniApps Hackathon — Winner)
+An airdrop platform focused on community building instead of mercenary incentives.
+* **Highlight:** Delivered a production-ready mini-app on Base L2 with real user flows.
+* **Stack:** `Solidity`, `Base`, `Base Account`, `Farcaster API`, `Neynar`, `AWS`.
+
+---
+
+## Technical Proficiency
 
 ```javascript
 const oscarFonseca = {
-  pronouns: "He" | "Him",
-  askMeAbout: ["web3", "DeFi", "scalability", "solution-architecture", "photography"],
+  role: "Full-Stack & Web3 Engineer",
+  focus: [
+    "Account Abstraction",
+    "DeFi Financial Engineering",
+    "Protocol & Infrastructure Design",
+    "Gas & Cost Optimization"
+  ],
   technologies: {
-    blockchain: ["Solidity", "Move", "Hardhat", "Foundry", "OpenZeppelin", "Aptos SDK"],
-    frontEnd: {
-      core: ["React", "Next.js", "TypeScript"],
-      styling: ["TailwindCSS", "SASS", "Chakra UI"]
-    },
-    backEnd: ["Node.js", "Express", "NestJS", "Go"],
-    devOps: ["AWS", "GCP", "Docker", "Kubernetes", "GitHub Actions"],
-    databases: ["Postgres", "MySQL", "MongoDB", "Redis"],
-    learning: ["Rust", "Solana Development", "Zero Knowledge (ZK)", "LLMs & ML", "n8n"]
-  },
-  community: {
-    coorganizer: "Ethereum Honduras","Ethereum San Pedro Sula",
-    mentor: "ETH KIPU",
+    blockchain: [
+      "Solidity", "Move", "Hardhat", "Foundry",
+      "OpenZeppelin", "Aptos SDK"
+    ],
+    frontend: [
+      "React", "Next.js", "TypeScript",
+      "TailwindCSS", "shadcn/ui"
+    ],
+    backend: [
+      "Node.js", "NestJS", "Go"
+    ],
+    infra: [
+      "AWS", "GCP", "Docker", "Kubernetes", "GitHub Actions"
+    ],
+    databases: [
+      "PostgreSQL", "MySQL", "MongoDB", "Redis"
+    ],
+    exploring: [
+      "Rust", "Solana", "Zero Knowledge (ZK)",
+      "LLMs & Automation", "n8n"
+    ]
   }
 };
 ```
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="edsphinx GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsphinx&layout=compact&theme=tokyonight&hide_border=true" alt="edsphinx Top Languages" />
-</p>
-
----
-
-### 📫 Let's Connect and Build Together!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Pick a slot if you'd like to chat!
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsphinx&layout=compact&theme=tokyonight&hide_border=true" />
 <a href="https://calendly.com/fonckdev/30min" target="_blank">
-  <img width="498" alt="Calendly Meeting Link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+<img src="" alt="Book a Call" />
 </a>
-
+</div>
