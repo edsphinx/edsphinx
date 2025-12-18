@@ -118,6 +118,6 @@ const oscarFonseca = {
 <img src="https://github-readme-stats.vercel.app/api?username=edsphinx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsphinx&layout=compact&theme=tokyonight&hide_border=true" />
 <a href="https://calendly.com/fonckdev/30min" target="_blank">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Book_a_Call-30_Min_Chat-blue?style=for-the-badge%26logo=google-meet%26logoColor=white" alt="Book a Call" />
+<img src="" alt="Book a Call" />
 </a>
 </div>
